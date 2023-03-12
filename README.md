@@ -16,5 +16,4 @@ N/A
 This study guide is used to follow the basics of creating your own project. By following these steps it'll help you with an understanding of not only how to create something simple using HTML, CSS, git, and JavaScript, but how to present that information to your audience. 
 
 ## License
-
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+MIT License
